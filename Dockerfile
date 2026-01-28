@@ -18,4 +18,4 @@ USER appuser
 
 EXPOSE 5050
 
-CMD [ "python","app1.py" ]
+CMD [ "python","app2.py" ]
